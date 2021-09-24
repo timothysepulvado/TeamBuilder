@@ -4,7 +4,7 @@
 ## Description
 This app uses Node, NPM, Inquirer, Email-Validation, and Jest. User will follow prompts then recieve a webpage with their teams information. 
 
-OOP & TDD 😎
+
 
 ![GitHub followers](https://img.shields.io/github/followers/nosremetnarg?label=GitHub%20Followers&logo=Github&?style=social)
 
